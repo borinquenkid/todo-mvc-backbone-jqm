@@ -1,0 +1,10 @@
+{
+  "name": "todomvc-backbone-jqm-node",
+  "description": "TODOMVC with JQuery Mobile and Node (for testing)",
+  "author": "Walter Duque de Estrada <wbduque@mac.com>",
+  "engine": "node >= 0.10.13",
+  "devDependencies": {
+    "mocha": "~1.12.0",
+    "selenium-webdriver": "~2.33.0"
+  }
+}
